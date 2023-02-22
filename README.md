@@ -1,15 +1,3 @@
----
-jupyter:
-  colab:
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
-
 <div class="cell markdown" id="9xZnRXM7x0Cv">
 
 # 🎈 CUHK-STAT1013: Practical Assignment Part 1: Sharing Your Idea and Data
