@@ -12,7 +12,7 @@ jupyter:
 
 <div class="cell markdown" id="9xZnRXM7x0Cv">
 
-# CUHK-STAT1013: Practical Assignment Part 1: Sharing Your Idea and Data
+# 🎈 CUHK-STAT1013: Practical Assignment Part 1: Sharing Your Idea and Data
 
 </div>
 
